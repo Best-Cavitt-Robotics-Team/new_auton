@@ -14,7 +14,7 @@ pros::Motor intake_top(8);
 
 pros::Imu inertial_sensor(14);
 
-double inch_constant=30;
+double inch_constant=33.75;
 int selected_auton=0;
 pros::adi::DigitalOut scraper1('A');
 pros::adi::DigitalOut scraper2('B');

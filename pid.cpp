@@ -1,6 +1,7 @@
-#include "globals.h"
-#include "globals.h"
 #include "helper_functions.h"
+#include "globals.h"
+
+
 
 // Translate PID Constants
 double kP = 0.12;
